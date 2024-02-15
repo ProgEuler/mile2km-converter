@@ -1,13 +1,13 @@
 # Mile to Kilometer Converter
 
-This Python project is a simple utility for converting distances from miles to kilometers.
+This Python project is a simple utility for converting distances from miles to kilometers, presented in a Graphical User Interface (GUI).
 
 ## How to Use
 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/mile2km-converter.git
+   git clone https://github.com/ProgEuler/mile2km-converter.git
    ```
 
 2. Navigate to the project directory:
@@ -19,21 +19,18 @@ This Python project is a simple utility for converting distances from miles to k
 3. Run the Python script with the distance in miles as an argument:
 
    ```bash
-   python converter.py <distance_in_miles>
+   python converter.py
    ```
-
-   Replace `<distance_in_miles>` with the distance you want to convert.
 
 ## Example
 
 ```bash
-python converter.py 5
+python converter.py
 ```
 
 Output:
 
 ```
-5 miles is equal to 8.04672 kilometers.
 ```
 
 ## Contributing
