@@ -1,5 +1,5 @@
 import tkinter as tk
-from tkinter import ttk 
+from tkinter import ttk
 
 def convert():
 	mile_input = entry_int.get()
